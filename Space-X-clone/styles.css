@@ -1,7 +1,10 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: D-DIN-Regular, Arial, Verdana, sans-serif;
+    font-family: D-DIN-Regular, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url('https://sxcontent9668.azureedge.us/cms-assets/assets/Euclid_outsidetowerh_IMG_2487_desktop_a75e89406d.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
   }
   
   header {
